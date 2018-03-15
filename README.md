@@ -4,3 +4,4 @@ python class with Dr. Luke Thompson
 #This is Sauce's first code
 
 print("There once was a cat named Sauce")
+print("This is difficult")
